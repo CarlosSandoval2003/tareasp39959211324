@@ -1,0 +1,23 @@
+commit e396ef92c3455a30f3a42c30a7445460d3d8a072
+Author: CarlosSandoval2003 <jawicho@outlook.com>
+Date:   Wed Jan 25 08:03:45 2023 -0600
+
+    Programa de Promedio Modificado
+
+commit 125dd20092e22af4e288f791ee653ca00fcc8bf6
+Author: CarlosSandoval2003 <jawicho@outlook.com>
+Date:   Wed Jan 25 07:42:18 2023 -0600
+
+    Programa Operaciones Basicas Modificado
+
+commit be24489c6040cd7951be1896569b6a7827f37b3f
+Author: CarlosSandoval2003 <jawicho@outlook.com>
+Date:   Wed Jan 25 07:17:22 2023 -0600
+
+    Programas Originales Agregados
+
+commit 222c6e9e1783737d370b4a4209a329fbeb74578c
+Author: CarlosSandoval2003 <98406391+CarlosSandoval2003@users.noreply.github.com>
+Date:   Mon Jan 23 10:59:22 2023 -0600
+
+    Initial commit
